@@ -5,7 +5,8 @@ public class testClass {
         System.out.println("hello");
         System.out.println(ParserTable.TestAcceptor1.class);
         Main main = new Main("Name");
-        System.out.println("my new text for stash");
+        System.out.println("my new text from stash");
+        System.out.println(Math.class.getClass());
     }
 
 }
