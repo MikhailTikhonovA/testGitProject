@@ -3,4 +3,8 @@ public class Main {
     Main(String test){
         this.test = test;
     }
+
+    public void setTest(String test) {
+        this.test = test;
+    }
 }
